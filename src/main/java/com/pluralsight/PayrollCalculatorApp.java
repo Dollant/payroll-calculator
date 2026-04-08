@@ -14,6 +14,10 @@ public class PayrollCalculatorApp {
         System.out.print("Enter hours worked: ");
         double hoursWorked = scanner.nextDouble();
 
+        // Prompt for pay rate
+        System.out.print("Enter your pay rate: ");
+        double payRate = scanner.nextDouble();
+
 
     }
 }
