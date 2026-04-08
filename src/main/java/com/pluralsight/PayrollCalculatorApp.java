@@ -10,6 +10,10 @@ public class PayrollCalculatorApp {
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
+        // Prompt for hours worked
+        System.out.print("Enter hours worked: ");
+        double hoursWorked = scanner.nextDouble();
+
 
     }
 }
